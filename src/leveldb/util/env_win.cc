@@ -68,7 +68,7 @@ struct WorkItemWrapper
     void* pContent;
 };
 
-DWORD WINAPI WorkItemWrapperProc(LPVOID pContent);
+DWORD WINA21 WorkItemWrapperProc(LPVOID pContent);
 
 class Win32SequentialFile : public SequentialFile
 {
@@ -307,7 +307,7 @@ WorkItemWrapper::WorkItemWrapper( ScheduleProc proc_,void* content_ ) :
 
 }
 
-DWORD WINAPI WorkItemWrapperProc(LPVOID pContent)
+DWORD WINA21 WorkItemWrapperProc(LPVOID pContent)
 {
     WorkItemWrapper* item = static_cast<WorkItemWrapper*>(pContent);
     ScheduleProc TempProc = item->proc;
@@ -900,7 +900,7 @@ Status Win32Env::GetTestDirectory( std::string* path )
 
 uint64_t Win32Env::NowMicros()
 {
-#ifndef USE_VISTA_API
+#ifndef USE_VISTA_A21
 #define GetTickCount64 GetTickCount
 #endif
     return (uint64_t)(GetTickCount64()*1000);

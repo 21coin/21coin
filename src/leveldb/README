@@ -9,7 +9,7 @@ See doc/impl.html for a brief overview of the implementation.
 
 The public interface is in include/*.h.  Callers should not include or
 rely on the details of any other header files in this package.  Those
-internal APIs may be changed without warning.
+internal A21s may be changed without warning.
 
 Guide to header files:
 

@@ -68,8 +68,8 @@
 #define fdatasync fsync
 #endif
 
-#if defined(OS_ANDROID) && __ANDROID_API__ < 9
-// fdatasync() was only introduced in API level 9 on Android. Use fsync()
+#if defined(OS_ANDROID) && __ANDROID_A21__ < 9
+// fdatasync() was only introduced in A21 level 9 on Android. Use fsync()
 // when targetting older platforms.
 #define fdatasync fsync
 #endif
