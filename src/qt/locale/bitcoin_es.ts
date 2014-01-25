@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About ABCCoin</source>
-        <translation>Acerca de ABCCoin</translation>
+        <source>About 21coin</source>
+        <translation>Acerca de 21coin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;ABCCoin&lt;/b&gt; version</source>
-        <translation>Versión de &lt;b&gt;ABCCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;21coin&lt;/b&gt; version</source>
+        <translation>Versión de &lt;b&gt;21coin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -37,8 +37,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+0"/>
-        <source>The ABCCoin developers</source>
-        <translation>Los programadores ABCCoin</translation>
+        <source>The 21coin developers</source>
+        <translation>Los programadores 21coin</translation>
     </message>
 </context>
 <context>
@@ -70,8 +70,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your ABCCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son sus direcciones ABCCoin para recibir pagos. Puede utilizar una diferente por cada persona emisora para saber quién le está pagando.</translation>
+        <source>These are your 21coin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son sus direcciones 21coin para recibir pagos. Puede utilizar una diferente por cada persona emisora para saber quién le está pagando.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -85,8 +85,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a ABCCoin address</source>
-        <translation>Firmar un mensaje para demostrar que se posee una dirección ABCCoin</translation>
+        <source>Sign a message to prove you own a 21coin address</source>
+        <translation>Firmar un mensaje para demostrar que se posee una dirección 21coin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -110,8 +110,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified ABCCoin address</source>
-        <translation>Verificar un mensaje para comprobar que fue firmado con la dirección ABCCoin indicada</translation>
+        <source>Verify a message to ensure it was signed with a specified 21coin address</source>
+        <translation>Verificar un mensaje para comprobar que fue firmado con la dirección 21coin indicada</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -125,8 +125,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your ABCCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones ABCCoin para enviar pagos. Compruebe siempre la cantidad y la dirección receptora antes de transferir monedas.</translation>
+        <source>These are your 21coin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones 21coin para enviar pagos. Compruebe siempre la cantidad y la dirección receptora antes de transferir monedas.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -251,8 +251,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZETACOINS&lt;/b&gt;!</source>
-        <translation>Atencion: ¡Si cifra su monedero y pierde la contraseña perderá &lt;b&gt;TODOS SUS ZETACOINS&lt;/b&gt;!&quot;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR 21COINS&lt;/b&gt;!</source>
+        <translation>Atencion: ¡Si cifra su monedero y pierde la contraseña perderá &lt;b&gt;TODOS SUS 21COINS&lt;/b&gt;!&quot;</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -278,8 +278,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-56"/>
-        <source>ABCCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your abccoins from being stolen by malware infecting your computer.</source>
-        <translation>ABCCoin se cerrará para finalizar el proceso de cifrado. Recuerde que el cifrado de su monedero no puede proteger totalmente sus abccoins de robo por malware que infecte su sistema.</translation>
+        <source>21coin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your 21coins from being stolen by malware infecting your computer.</source>
+        <translation>21coin se cerrará para finalizar el proceso de cifrado. Recuerde que el cifrado de su monedero no puede proteger totalmente sus 21coins de robo por malware que infecte su sistema.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about ABCCoin</source>
-        <translation>Mostrar información acerca de ABCCoin</translation>
+        <source>Show information about 21coin</source>
+        <translation>Mostrar información acerca de 21coin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a ABCCoin address</source>
-        <translation>Enviar monedas a una dirección ABCCoin</translation>
+        <source>Send coins to a 21coin address</source>
+        <translation>Enviar monedas a una dirección 21coin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for ABCCoin</source>
-        <translation>Modificar las opciones de configuración de ABCCoin</translation>
+        <source>Modify configuration options for 21coin</source>
+        <translation>Modificar las opciones de configuración de 21coin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -458,8 +458,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>ABCCoin</source>
-        <translation>ABCCoin</translation>
+        <source>21coin</source>
+        <translation>21coin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -483,8 +483,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About ABCCoin</source>
-        <translation>&amp;Acerca de ABCCoin</translation>
+        <source>&amp;About 21coin</source>
+        <translation>&amp;Acerca de 21coin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -503,13 +503,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your ABCCoin addresses to prove you own them</source>
-        <translation>Firmar mensajes con sus direcciones ABCCoin para demostrar la propiedad</translation>
+        <source>Sign messages with your 21coin addresses to prove you own them</source>
+        <translation>Firmar mensajes con sus direcciones 21coin para demostrar la propiedad</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified ABCCoin addresses</source>
-        <translation>Verificar mensajes comprobando que están firmados con direcciones ABCCoin concretas</translation>
+        <source>Verify messages to ensure they were signed with specified 21coin addresses</source>
+        <translation>Verificar mensajes comprobando que están firmados con direcciones 21coin concretas</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -539,13 +539,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+47"/>
-        <source>ABCCoin client</source>
-        <translation>Cliente ABCCoin</translation>
+        <source>21coin client</source>
+        <translation>Cliente 21coin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to ABCCoin network</source>
-        <translation><numerusform>%n conexión activa hacia la red ABCCoin</numerusform><numerusform>%n conexiones activas hacia la red ABCCoin</numerusform></translation>
+        <source>%n active connection(s) to 21coin network</source>
+        <translation><numerusform>%n conexión activa hacia la red 21coin</numerusform><numerusform>%n conexiones activas hacia la red 21coin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -659,8 +659,8 @@ Dirección: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid ABCCoin address or malformed URI parameters.</source>
-        <translation>¡No se puede interpretar la URI! Esto puede deberse a una dirección ABCCoin inválida o a parámetros de URI mal formados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid 21coin address or malformed URI parameters.</source>
+        <translation>¡No se puede interpretar la URI! Esto puede deberse a una dirección 21coin inválida o a parámetros de URI mal formados.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -674,8 +674,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. ABCCoin can no longer continue safely and will quit.</source>
-        <translation>Ha ocurrido un error crítico. ABCCoin ya no puede continuar con seguridad y se cerrará.</translation>
+        <source>A fatal error occurred. 21coin can no longer continue safely and will quit.</source>
+        <translation>Ha ocurrido un error crítico. 21coin ya no puede continuar con seguridad y se cerrará.</translation>
     </message>
 </context>
 <context>
@@ -740,8 +740,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid ABCCoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección ABCCoin válida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid 21coin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección 21coin válida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -759,8 +759,8 @@ Dirección: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>ABCCoin-Qt</source>
-        <translation>ABCCoin-Qt</translation>
+        <source>21coin-Qt</source>
+        <translation>21coin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -822,13 +822,13 @@ Dirección: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start ABCCoin after logging in to the system.</source>
-        <translation>Iniciar ABCCoin automáticamente al encender el sistema.</translation>
+        <source>Automatically start 21coin after logging in to the system.</source>
+        <translation>Iniciar 21coin automáticamente al encender el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start ABCCoin on system login</source>
-        <translation>&amp;Iniciar ABCCoin al iniciar el sistema</translation>
+        <source>&amp;Start 21coin on system login</source>
+        <translation>&amp;Iniciar 21coin al iniciar el sistema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -847,8 +847,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the ABCCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto del cliente ABCCoin en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
+        <source>Automatically open the 21coin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto del cliente 21coin en el router. Esta opción solo funciona si el router admite UPnP y está activado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -857,8 +857,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the ABCCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conectar a la red ABCCoin a través de un proxy SOCKS (ej. para conectar con la red Tor)</translation>
+        <source>Connect to the 21coin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conectar a la red 21coin a través de un proxy SOCKS (ej. para conectar con la red Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -932,8 +932,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting ABCCoin.</source>
-        <translation>El idioma de la interfaz de usuario puede establecerse aquí. Este ajuste se aplicará cuando se reinicie ABCCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting 21coin.</source>
+        <translation>El idioma de la interfaz de usuario puede establecerse aquí. Este ajuste se aplicará cuando se reinicie 21coin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -947,8 +947,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show ABCCoin addresses in the transaction list or not.</source>
-        <translation>Mostrar o no las direcciones ABCCoin en la lista de transacciones.</translation>
+        <source>Whether to show 21coin addresses in the transaction list or not.</source>
+        <translation>Mostrar o no las direcciones 21coin en la lista de transacciones.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -999,8 +999,8 @@ Dirección: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting ABCCoin.</source>
-        <translation>Esta configuración tendrá efecto tras reiniciar ABCCoin.</translation>
+        <source>This setting will take effect after restarting 21coin.</source>
+        <translation>Esta configuración tendrá efecto tras reiniciar 21coin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1018,8 +1018,8 @@ Dirección: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ABCCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red ABCCoin después de que se haya establecido una conexión , pero este proceso aún no se ha completado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 21coin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar desactualizada. Su monedero se sincroniza automáticamente con la red 21coin después de que se haya establecido una conexión , pero este proceso aún no se ha completado.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1072,8 +1072,8 @@ Dirección: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start abccoin: click-to-pay handler</source>
-        <translation>No se pudo iniciar abccoin: manejador de pago-al-clic</translation>
+        <source>Cannot start 21coin: click-to-pay handler</source>
+        <translation>No se pudo iniciar 21coin: manejador de pago-al-clic</translation>
     </message>
 </context>
 <context>
@@ -1222,8 +1222,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the ABCCoin-Qt help message to get a list with possible ABCCoin command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de ABCCoin-Qt que enumera las opciones disponibles de línea de órdenes para ABCCoin.</translation>
+        <source>Show the 21coin-Qt help message to get a list with possible 21coin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de 21coin-Qt que enumera las opciones disponibles de línea de órdenes para 21coin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1242,13 +1242,13 @@ Dirección: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>ABCCoin - Debug window</source>
-        <translation>ABCCoin - Ventana de depuración</translation>
+        <source>21coin - Debug window</source>
+        <translation>21coin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>ABCCoin Core</source>
-        <translation>Núcleo de ABCCoin</translation>
+        <source>21coin Core</source>
+        <translation>Núcleo de 21coin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1257,7 +1257,7 @@ Dirección: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the ABCCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the 21coin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Abrir el archivo de registro de depuración en el directorio actual de datos. Esto puede llevar varios segundos para archivos de registro grandes.</translation>
     </message>
     <message>
@@ -1267,8 +1267,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the ABCCoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de ABCCoin</translation>
+        <source>Welcome to the 21coin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de 21coin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1451,8 +1451,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a ABCCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduzca una dirección ABCCoin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a 21coin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introduzca una dirección 21coin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1516,8 +1516,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this ABCCoin address</source>
-        <translation>Firmar el mensaje para demostrar que se posee esta dirección ABCCoin</translation>
+        <source>Sign the message to prove you own this 21coin address</source>
+        <translation>Firmar el mensaje para demostrar que se posee esta dirección 21coin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1552,8 +1552,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified ABCCoin address</source>
-        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección ABCCoin indicada</translation>
+        <source>Verify the message to ensure it was signed with the specified 21coin address</source>
+        <translation>Verificar el mensaje para comprobar que fue firmado con la dirección 21coin indicada</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1568,8 +1568,8 @@ Dirección: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a ABCCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduzca una dirección ABCCoin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a 21coin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introduzca una dirección 21coin (ej. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1578,8 +1578,8 @@ Dirección: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter ABCCoin signature</source>
-        <translation>Introduzca una firma ABCCoin</translation>
+        <source>Enter 21coin signature</source>
+        <translation>Introduzca una firma 21coin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1652,8 +1652,8 @@ Dirección: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The ABCCoin developers</source>
-        <translation>Los programadores ABCCoin</translation>
+        <source>The 21coin developers</source>
+        <translation>Los programadores 21coin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2190,8 +2190,8 @@ Dirección: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>ABCCoin version</source>
-        <translation>Versión de ABCCoin</translation>
+        <source>21coin version</source>
+        <translation>Versión de 21coin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2200,8 +2200,8 @@ Dirección: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or abccoind</source>
-        <translation>Envíar comando a -server o abccoind</translation>
+        <source>Send command to -server or 21coind</source>
+        <translation>Envíar comando a -server o 21coind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2223,14 +2223,14 @@ Dirección: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: abccoin.conf)</source>
-        <translation>Especificar archivo de configuración (predeterminado: abccoin.conf)
+        <source>Specify configuration file (default: 21coin.conf)</source>
+        <translation>Especificar archivo de configuración (predeterminado: 21coin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: abccoind.pid)</source>
-        <translation>Especificar archivo pid (predeterminado: abccoin.pid)
+        <source>Specify pid file (default: 21coind.pid)</source>
+        <translation>Especificar archivo pid (predeterminado: 21coin.pid)
 </translation>
     </message>
     <message>
@@ -2311,24 +2311,24 @@ Dirección: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=abccoinrpc
+rpcuser=21coinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;21coin Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un valor rpcpassword en el archivo de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=abccoinrpc
+rpcuser=21coinrpc
 rpcpassword=%s
 (no es necesario recordar esta contraseña)
 El nombre de usuario y la contraseña DEBEN NO ser iguales.
 Si el archivo no existe, créelo con permisos de archivo de solo lectura.
 Se recomienda también establecer alertnotify para recibir notificaciones de problemas.
-Por ejemplo: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.com
+Por ejemplo: alertnotify=echo %%s | mail -s &quot;21coin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2343,8 +2343,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. ABCCoin is probably already running.</source>
-        <translation>No se puede bloquear el directorio de datos %s. Probablemente ABCCoin ya se está ejecutando.</translation>
+        <source>Cannot obtain a lock on data directory %s. 21coin is probably already running.</source>
+        <translation>No se puede bloquear el directorio de datos %s. Probablemente 21coin ya se está ejecutando.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2388,8 +2388,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ABCCoin will not work properly.</source>
-        <translation>Precaución: Por favor, ¡revise que la fecha y hora de su ordenador son correctas! Si su reloj está mal, ABCCoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 21coin will not work properly.</source>
+        <translation>Precaución: Por favor, ¡revise que la fecha y hora de su ordenador son correctas! Si su reloj está mal, 21coin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2838,13 +2838,13 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of ABCCoin</source>
-        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de ABCCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of 21coin</source>
+        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de 21coin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart ABCCoin to complete</source>
-        <translation>El monedero ha necesitado ser reescrito. Reinicie ABCCoin para completar el proceso</translation>
+        <source>Wallet needed to be rewritten: restart 21coin to complete</source>
+        <translation>El monedero ha necesitado ser reescrito. Reinicie 21coin para completar el proceso</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2903,8 +2903,8 @@ Por ejemplo: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. ABCCoin is probably already running.</source>
-        <translation>No es posible conectar con %s en este sistema. Probablemente ABCCoin ya está ejecutándose.</translation>
+        <source>Unable to bind to %s on this computer. 21coin is probably already running.</source>
+        <translation>No es posible conectar con %s en este sistema. Probablemente 21coin ya está ejecutándose.</translation>
     </message>
     <message>
         <location line="+64"/>

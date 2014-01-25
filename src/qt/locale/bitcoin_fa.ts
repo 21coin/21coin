@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About ABCCoin</source>
-        <translation>در مورد ABCCoin</translation>
+        <source>About 21coin</source>
+        <translation>در مورد 21coin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;ABCCoin&lt;/b&gt; version</source>
-        <translation>نسخه ABCCoin</translation>
+        <source>&lt;b&gt;21coin&lt;/b&gt; version</source>
+        <translation>نسخه 21coin</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The ABCCoin developers</source>
+        <source>The 21coin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your ABCCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>این آدرسها، آدرسهای abccoin شما برای دریافت وجوه هستند. شما ممکن است آدرسهای متفاوت را به هر گیرنده اختصاص دهید که بتوانید مواردی که پرداخت می کنید را پیگیری نمایید</translation>
+        <source>These are your 21coin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>این آدرسها، آدرسهای 21coin شما برای دریافت وجوه هستند. شما ممکن است آدرسهای متفاوت را به هر گیرنده اختصاص دهید که بتوانید مواردی که پرداخت می کنید را پیگیری نمایید</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a ABCCoin address</source>
-        <translation>پیام را برای اثبات آدرس ABCCoin خود امضا کنید</translation>
+        <source>Sign a message to prove you own a 21coin address</source>
+        <translation>پیام را برای اثبات آدرس 21coin خود امضا کنید</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -102,8 +102,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified ABCCoin address</source>
-        <translation>یک پیام را برای حصول اطمینان از ورود به سیستم با آدرس abccoin مشخص، شناسایی کنید</translation>
+        <source>Verify a message to ensure it was signed with a specified 21coin address</source>
+        <translation>یک پیام را برای حصول اطمینان از ورود به سیستم با آدرس 21coin مشخص، شناسایی کنید</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,7 +117,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your ABCCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your 21coin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -244,8 +244,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZETACOINS&lt;/b&gt;!</source>
-        <translation>هشدار: اگر wallet رمزگذاری شود و شما passphrase را گم کنید شما همه اطلاعات abccoin را از دست خواهید داد.</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR 21COINS&lt;/b&gt;!</source>
+        <translation>هشدار: اگر wallet رمزگذاری شود و شما passphrase را گم کنید شما همه اطلاعات 21coin را از دست خواهید داد.</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -271,7 +271,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>ABCCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your abccoins from being stolen by malware infecting your computer.</source>
+        <source>21coin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your 21coins from being stolen by malware infecting your computer.</source>
         <translation>Biticon هم اکنون بسته می‌شود تا فرایند رمزگذاری را تمام کند. به خاطر داشته باشید که رمزگذاری کیف پولتان نمی‌تواند به طور کامل بیتیکون‌های شما را در برابر دزدیده شدن توسط بدافزارهایی که رایانه شما را آلوده می‌کنند، محافظت نماید.</translation>
     </message>
     <message>
@@ -370,7 +370,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about ABCCoin</source>
+        <source>Show information about 21coin</source>
         <translation>نمایش اطلاعات در مورد بیتکویین</translation>
     </message>
     <message>
@@ -415,13 +415,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a ABCCoin address</source>
+        <source>Send coins to a 21coin address</source>
         <translation>سکه ها را به آدرس bitocin ارسال کن</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for ABCCoin</source>
-        <translation>انتخابهای پیکربندی را برای abccoin اصلاح کن</translation>
+        <source>Modify configuration options for 21coin</source>
+        <translation>انتخابهای پیکربندی را برای 21coin اصلاح کن</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -451,7 +451,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>ABCCoin</source>
+        <source>21coin</source>
         <translation>یت کویین </translation>
     </message>
     <message>
@@ -476,8 +476,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About ABCCoin</source>
-        <translation>در مورد abccoin</translation>
+        <source>&amp;About 21coin</source>
+        <translation>در مورد 21coin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -496,12 +496,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your ABCCoin addresses to prove you own them</source>
+        <source>Sign messages with your 21coin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified ABCCoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified 21coin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -532,12 +532,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>ABCCoin client</source>
-        <translation>مشتری ABCCoin</translation>
+        <source>21coin client</source>
+        <translation>مشتری 21coin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to ABCCoin network</source>
+        <source>%n active connection(s) to 21coin network</source>
         <translation><numerusform>در صد ارتباطات فعال بیتکویین با شبکه %n</numerusform></translation>
     </message>
     <message>
@@ -651,8 +651,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid ABCCoin address or malformed URI parameters.</source>
-        <translation>URI قابل تحلیل نیست. این خطا ممکن است به دلیل ادرس ZETACOIN اشتباه یا پارامترهای اشتباه URI رخ داده باشد</translation>
+        <source>URI can not be parsed! This can be caused by an invalid 21coin address or malformed URI parameters.</source>
+        <translation>URI قابل تحلیل نیست. این خطا ممکن است به دلیل ادرس 21COIN اشتباه یا پارامترهای اشتباه URI رخ داده باشد</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -666,8 +666,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. ABCCoin can no longer continue safely and will quit.</source>
-        <translation>خطا روی داده است. ABCCoin نمی تواند بدون مشکل ادامه دهد و باید بسته شود</translation>
+        <source>A fatal error occurred. 21coin can no longer continue safely and will quit.</source>
+        <translation>خطا روی داده است. 21coin نمی تواند بدون مشکل ادامه دهد و باید بسته شود</translation>
     </message>
 </context>
 <context>
@@ -732,8 +732,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid ABCCoin address.</source>
-        <translation>آدرس وارد شده %1 یک ادرس صحیح abccoin نیست</translation>
+        <source>The entered address &quot;%1&quot; is not a valid 21coin address.</source>
+        <translation>آدرس وارد شده %1 یک ادرس صحیح 21coin نیست</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -751,8 +751,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>ABCCoin-Qt</source>
-        <translation>ABCCoin-Qt</translation>
+        <source>21coin-Qt</source>
+        <translation>21coin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -814,13 +814,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start ABCCoin after logging in to the system.</source>
-        <translation>در زمان ورود به سیستم به صورت خودکار abccoin را اجرا کن</translation>
+        <source>Automatically start 21coin after logging in to the system.</source>
+        <translation>در زمان ورود به سیستم به صورت خودکار 21coin را اجرا کن</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start ABCCoin on system login</source>
-        <translation>اجرای abccoin در زمان ورود به سیستم</translation>
+        <source>&amp;Start 21coin on system login</source>
+        <translation>اجرای 21coin در زمان ورود به سیستم</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -839,7 +839,7 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the ABCCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the 21coin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>اتوماتیک باز کردن بندر بیتکویین در روتر . این فقط در مواردی می باشد که روتر با کمک یو پ ن پ کار می کند</translation>
     </message>
     <message>
@@ -849,8 +849,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the ABCCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>اتصال به شبکه ZETACOIN از طریق پراکسی ساکس (برای مثال وقتی از طریق نرم افزار TOR متصل می شوید)</translation>
+        <source>Connect to the 21coin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>اتصال به شبکه 21COIN از طریق پراکسی ساکس (برای مثال وقتی از طریق نرم افزار TOR متصل می شوید)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -924,8 +924,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting ABCCoin.</source>
-        <translation>زبان میانجی کاربر می تواند در اینجا تنظیم شود. این تنظیمات بعد از شروع دوباره RESTART در ZETACOIN اجرایی خواهند بود.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting 21coin.</source>
+        <translation>زبان میانجی کاربر می تواند در اینجا تنظیم شود. این تنظیمات بعد از شروع دوباره RESTART در 21COIN اجرایی خواهند بود.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -939,7 +939,7 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show ABCCoin addresses in the transaction list or not.</source>
+        <source>Whether to show 21coin addresses in the transaction list or not.</source>
         <translation>تا آدرسهای bITCOIN در فهرست تراکنش نمایش داده شوند یا نشوند.</translation>
     </message>
     <message>
@@ -991,8 +991,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting ABCCoin.</source>
-        <translation>این تنظیمات پس از اجرای دوباره ABCCoin اعمال می شوند</translation>
+        <source>This setting will take effect after restarting 21coin.</source>
+        <translation>این تنظیمات پس از اجرای دوباره 21coin اعمال می شوند</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1010,8 +1010,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ABCCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش داده شده روزآمد نیستند.wallet  شما به صورت خودکار با شبکه abccoin بعد از برقراری اتصال روزآمد می شود اما این فرایند هنوز کامل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 21coin network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش داده شده روزآمد نیستند.wallet  شما به صورت خودکار با شبکه 21coin بعد از برقراری اتصال روزآمد می شود اما این فرایند هنوز کامل نشده است.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1064,7 +1064,7 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start abccoin: click-to-pay handler</source>
+        <source>Cannot start 21coin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1214,8 +1214,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the ABCCoin-Qt help message to get a list with possible ABCCoin command-line options.</source>
-        <translation>پیام راهنمای ABCCoin-Qt  را برای گرفتن فهرست گزینه های command-line نشان بده</translation>
+        <source>Show the 21coin-Qt help message to get a list with possible 21coin command-line options.</source>
+        <translation>پیام راهنمای 21coin-Qt  را برای گرفتن فهرست گزینه های command-line نشان بده</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1234,13 +1234,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>ABCCoin - Debug window</source>
-        <translation>صفحه اشکال زدایی ABCCoin </translation>
+        <source>21coin - Debug window</source>
+        <translation>صفحه اشکال زدایی 21coin </translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>ABCCoin Core</source>
-        <translation> هسته ABCCoin </translation>
+        <source>21coin Core</source>
+        <translation> هسته 21coin </translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1249,8 +1249,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the ABCCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>فایلِ لاگِ اشکال زدایی ABCCoin  را از دایرکتوری جاری داده ها باز کنید. این عملیات ممکن است برای فایلهای لاگِ حجیم طولانی شود.</translation>
+        <source>Open the 21coin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>فایلِ لاگِ اشکال زدایی 21coin  را از دایرکتوری جاری داده ها باز کنید. این عملیات ممکن است برای فایلهای لاگِ حجیم طولانی شود.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1259,8 +1259,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the ABCCoin RPC console.</source>
-        <translation>به کنسول ABCCoin RPC خوش آمدید</translation>
+        <source>Welcome to the 21coin RPC console.</source>
+        <translation>به کنسول 21coin RPC خوش آمدید</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1443,7 +1443,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a ABCCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a 21coin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>آدرس بیتکویین وارد کنید  (bijvoorbeeld: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -1508,8 +1508,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this ABCCoin address</source>
-        <translation>پیام را برای اثبات آدرس ZETACOIN خود امضا کنید</translation>
+        <source>Sign the message to prove you own this 21coin address</source>
+        <translation>پیام را برای اثبات آدرس 21COIN خود امضا کنید</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1544,8 +1544,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified ABCCoin address</source>
-        <translation>پیام را برای اطمنان از ورود به سیستم با آدرس ZETACOIN مشخص خود،تایید کنید</translation>
+        <source>Verify the message to ensure it was signed with the specified 21coin address</source>
+        <translation>پیام را برای اطمنان از ورود به سیستم با آدرس 21COIN مشخص خود،تایید کنید</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1560,7 +1560,7 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a ABCCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a 21coin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>آدرس بیتکویین وارد کنید  (bijvoorbeeld: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
@@ -1570,7 +1570,7 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter ABCCoin signature</source>
+        <source>Enter 21coin signature</source>
         <translation>امضای BITOCOIN خود را وارد کنید</translation>
     </message>
     <message>
@@ -1644,7 +1644,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The ABCCoin developers</source>
+        <source>The 21coin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2185,7 +2185,7 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>ABCCoin version</source>
+        <source>21coin version</source>
         <translation>سخه بیتکویین</translation>
     </message>
     <message>
@@ -2195,7 +2195,7 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or abccoind</source>
+        <source>Send command to -server or 21coind</source>
         <translation>ارسال فرمان به سرور یا باتکویین</translation>
     </message>
     <message>
@@ -2215,13 +2215,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: abccoin.conf)</source>
-        <translation>(: abccoin.confپیش فرض: )فایل تنظیمی خاص </translation>
+        <source>Specify configuration file (default: 21coin.conf)</source>
+        <translation>(: 21coin.confپیش فرض: )فایل تنظیمی خاص </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: abccoind.pid)</source>
-        <translation>(abccoind.pidپیش فرض : ) فایل پید خاص</translation>
+        <source>Specify pid file (default: 21coind.pid)</source>
+        <translation>(21coind.pidپیش فرض : ) فایل پید خاص</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2298,13 +2298,13 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=abccoinrpc
+rpcuser=21coinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;21coin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2320,7 +2320,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. ABCCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. 21coin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2365,8 +2365,8 @@ for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ABCCoin will not work properly.</source>
-        <translation>هشدار: لطفا زمان و تاریخ رایانه خود را تصحیح نمایید! اگر ساعت رایانه شما اشتباه باشد abccoin ممکن است صحیح کار نکند</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 21coin will not work properly.</source>
+        <translation>هشدار: لطفا زمان و تاریخ رایانه خود را تصحیح نمایید! اگر ساعت رایانه شما اشتباه باشد 21coin ممکن است صحیح کار نکند</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2615,8 +2615,8 @@ for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the ABCCoin Wiki for SSL setup instructions)</source>
-        <translation>گزینه ssl (به ویکیabccoin برای راهنمای راه اندازی ssl مراجعه شود)</translation>
+        <source>SSL options: (see the 21coin Wiki for SSL setup instructions)</source>
+        <translation>گزینه ssl (به ویکی21coin برای راهنمای راه اندازی ssl مراجعه شود)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2805,12 +2805,12 @@ for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of ABCCoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of 21coin</source>
         <translation>خطا در بارگیری wallet.dat: کیف پول به ویرایش جدیدتری از Biticon نیاز دارد</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart ABCCoin to complete</source>
+        <source>Wallet needed to be rewritten: restart 21coin to complete</source>
         <translation>سلام</translation>
     </message>
     <message>
@@ -2870,8 +2870,8 @@ for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. ABCCoin is probably already running.</source>
-        <translation>اتصال به %s از این رایانه امکان پذیر نیست. ABCCoin احتمالا در حال اجراست.</translation>
+        <source>Unable to bind to %s on this computer. 21coin is probably already running.</source>
+        <translation>اتصال به %s از این رایانه امکان پذیر نیست. 21coin احتمالا در حال اجراست.</translation>
     </message>
     <message>
         <location line="+64"/>

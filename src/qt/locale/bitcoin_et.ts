@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About ABCCoin</source>
-        <translation>ABCCoinist</translation>
+        <source>About 21coin</source>
+        <translation>21coinist</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;ABCCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;ABCCoini&lt;/b&gt; versioon</translation>
+        <source>&lt;b&gt;21coin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;21coini&lt;/b&gt; versioon</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,7 +34,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+0"/>
-        <source>The ABCCoin developers</source>
+        <source>The 21coin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -67,8 +67,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your ABCCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Maksete saamiseks kasutatavad ABCCoini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
+        <source>These are your 21coin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Maksete saamiseks kasutatavad 21coini aadressid. Maksjate paremaks jälgimiseks võib igaühele anda erineva.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,7 +82,7 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a ABCCoin address</source>
+        <source>Sign a message to prove you own a 21coin address</source>
         <translation>Allkirjasta sõnum, et tõestada Bitconi aadressi olemasolu.</translation>
     </message>
     <message>
@@ -107,8 +107,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified ABCCoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud ABCCoini aadressiga.</translation>
+        <source>Verify a message to ensure it was signed with a specified 21coin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud 21coini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your ABCCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu ABCCoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your 21coin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu 21coini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -248,8 +248,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZETACOINS&lt;/b&gt;!</source>
-        <translation>Hoiatus: Kui sa kaotad oma, rahakoti krüpteerimisel kasutatud, salafraasi, siis &lt;b&gt;KAOTAD KA KÕIK OMA ZETACOINID&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR 21COINS&lt;/b&gt;!</source>
+        <translation>Hoiatus: Kui sa kaotad oma, rahakoti krüpteerimisel kasutatud, salafraasi, siis &lt;b&gt;KAOTAD KA KÕIK OMA 21COINID&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -275,8 +275,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-56"/>
-        <source>ABCCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your abccoins from being stolen by malware infecting your computer.</source>
-        <translation>ABCCoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista abccoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>21coin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your 21coins from being stolen by malware infecting your computer.</source>
+        <translation>21coin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista 21coinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about ABCCoin</source>
-        <translation>Kuva info ABCCoini kohta</translation>
+        <source>Show information about 21coin</source>
+        <translation>Kuva info 21coini kohta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a ABCCoin address</source>
-        <translation>Saada münte ABCCoini aadressile</translation>
+        <source>Send coins to a 21coin address</source>
+        <translation>Saada münte 21coini aadressile</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for ABCCoin</source>
-        <translation>Muuda ABCCoini seadeid</translation>
+        <source>Modify configuration options for 21coin</source>
+        <translation>Muuda 21coini seadeid</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>ABCCoin</source>
-        <translation>ABCCoin</translation>
+        <source>21coin</source>
+        <translation>21coin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About ABCCoin</source>
-        <translation>%ABCCoinist</translation>
+        <source>&amp;About 21coin</source>
+        <translation>%21coinist</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your ABCCoin addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma ABCCoini aadressiga</translation>
+        <source>Sign messages with your 21coin addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma 21coini aadressiga</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified ABCCoin addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud ABCCoini aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified 21coin addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud 21coini aadressiga</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
     </message>
     <message>
         <location line="+47"/>
-        <source>ABCCoin client</source>
-        <translation>ABCCoini klient</translation>
+        <source>21coin client</source>
+        <translation>21coini klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to ABCCoin network</source>
-        <translation><numerusform>%n aktiivne ühendus ABCCoini võrku</numerusform><numerusform>%n aktiivset ühendust ABCCoini võrku</numerusform></translation>
+        <source>%n active connection(s) to 21coin network</source>
+        <translation><numerusform>%n aktiivne ühendus 21coini võrku</numerusform><numerusform>%n aktiivset ühendust 21coini võrku</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid ABCCoin address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu ABCCoini aadress või vigased URI parameetrid.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid 21coin address or malformed URI parameters.</source>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu 21coini aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. ABCCoin can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. ABCCoin suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. 21coin can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. 21coin suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid ABCCoin address.</source>
-        <translation>Sisestatud aadress &quot;%1&quot; ei ole ABCCoinis kehtiv.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid 21coin address.</source>
+        <translation>Sisestatud aadress &quot;%1&quot; ei ole 21coinis kehtiv.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>ABCCoin-Qt</source>
-        <translation>ABCCoini-Qt</translation>
+        <source>21coin-Qt</source>
+        <translation>21coini-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start ABCCoin after logging in to the system.</source>
-        <translation>Käivita ABCCoin süsteemi logimisel.</translation>
+        <source>Automatically start 21coin after logging in to the system.</source>
+        <translation>Käivita 21coin süsteemi logimisel.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start ABCCoin on system login</source>
-        <translation>&amp;Start ABCCoin sisselogimisel</translation>
+        <source>&amp;Start 21coin on system login</source>
+        <translation>&amp;Start 21coin sisselogimisel</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the ABCCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>ABCCoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the 21coin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>21coini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the ABCCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Kasuta ABCCoini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
+        <source>Connect to the 21coin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Kasuta 21coini võrgustikku ühendumiseks SOCKS turva proxy&apos;t (nt Tor&apos;i kasutamisel).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting ABCCoin.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub ABCCoini käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting 21coin.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub 21coini käivitamisel.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show ABCCoin addresses in the transaction list or not.</source>
-        <translation>Kuvada ABCCoini aadress tehingute loetelus või mitte.</translation>
+        <source>Whether to show 21coin addresses in the transaction list or not.</source>
+        <translation>Kuvada 21coini aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Aadress: %4⏎</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting ABCCoin.</source>
-        <translation>Tehtud valik rakendub ABCCoini käivitamisel.</translation>
+        <source>This setting will take effect after restarting 21coin.</source>
+        <translation>Tehtud valik rakendub 21coini käivitamisel.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,7 +1014,7 @@ Aadress: %4⏎</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ABCCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 21coin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -1068,8 +1068,8 @@ Aadress: %4⏎</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start abccoin: click-to-pay handler</source>
-        <translation>ABCCoin ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start 21coin: click-to-pay handler</source>
+        <translation>21coin ei käivitu: vajuta-maksa toiming</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the ABCCoin-Qt help message to get a list with possible ABCCoin command-line options.</source>
-        <translation>Näita kehtivate käsurea valikute kuvamiseks ABCCoini-Qt abiteksti</translation>
+        <source>Show the 21coin-Qt help message to get a list with possible 21coin command-line options.</source>
+        <translation>Näita kehtivate käsurea valikute kuvamiseks 21coini-Qt abiteksti</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>ABCCoin - Debug window</source>
-        <translation>ABCCoin - debugimise aken</translation>
+        <source>21coin - Debug window</source>
+        <translation>21coin - debugimise aken</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>ABCCoin Core</source>
-        <translation>ABCCoini tuumik</translation>
+        <source>21coin Core</source>
+        <translation>21coini tuumik</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the ABCCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava ABCCoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the 21coin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava 21coini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the ABCCoin RPC console.</source>
-        <translation>Teretulemast ABCCoini RPC konsooli.</translation>
+        <source>Welcome to the 21coin RPC console.</source>
+        <translation>Teretulemast 21coini RPC konsooli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a ABCCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Sisesta ABCCoini aadress (nt: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a 21coin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Sisesta 21coini aadress (nt: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this ABCCoin address</source>
-        <translation>Allkirjasta sõnum ABCCoini aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this 21coin address</source>
+        <translation>Allkirjasta sõnum 21coini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified ABCCoin address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud ABCCoini aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified 21coin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud 21coini aadressiga.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Aadress: %4⏎</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a ABCCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Sisesta ABCCoini aadress (nt: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a 21coin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Sisesta 21coini aadress (nt: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter ABCCoin signature</source>
-        <translation>Sisesta ABCCoini allkiri</translation>
+        <source>Enter 21coin signature</source>
+        <translation>Sisesta 21coini allkiri</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,7 +1648,7 @@ Aadress: %4⏎</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The ABCCoin developers</source>
+        <source>The 21coin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2186,8 +2186,8 @@ Aadress: %4⏎</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>ABCCoin version</source>
-        <translation>ABCCoini versioon</translation>
+        <source>21coin version</source>
+        <translation>21coini versioon</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or abccoind</source>
-        <translation>Saada käsklus -serverile või abccoindile</translation>
+        <source>Send command to -server or 21coind</source>
+        <translation>Saada käsklus -serverile või 21coindile</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Aadress: %4⏎</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: abccoin.conf)</source>
-        <translation>Täpsusta sätete fail (vaikimisi: abccoin.conf)</translation>
+        <source>Specify configuration file (default: 21coin.conf)</source>
+        <translation>Täpsusta sätete fail (vaikimisi: 21coin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: abccoind.pid)</source>
-        <translation>Täpsusta PID fail (vaikimisi: abccoin.pid)</translation>
+        <source>Specify pid file (default: 21coind.pid)</source>
+        <translation>Täpsusta PID fail (vaikimisi: 21coin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Aadress: %4⏎</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=abccoinrpc
+rpcuser=21coinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;21coin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
 Soovitatav on kasutada järgmist juhuslikku parooli:
-rpcuser=abccoinrpc
+rpcuser=21coinrpc
 rpcpassword=%s
 (seda parooli ei pea meeles pidama)
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s &quot;ABCCoin Alert&quot; admin@foo.com
+nt: alertnotify=echo %%s | email -s &quot;21coin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ nt: alertnotify=echo %%s | email -s &quot;ABCCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. ABCCoin is probably already running.</source>
-        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on ABCCoin juba avatud.</translation>
+        <source>Cannot obtain a lock on data directory %s. 21coin is probably already running.</source>
+        <translation>Ei suuda määrata ainuõigust andmekaustale %s. Tõenäolisel on 21coin juba avatud.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ nt: alertnotify=echo %%s | email -s &quot;ABCCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ABCCoin will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis ABCCoin ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 21coin will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis 21coin ei tööta korralikult</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ nt: alertnotify=echo %%s | email -s &quot;ABCCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the ABCCoin Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata ABCCoini Wikist või SSL sätete juhendist)</translation>
+        <source>SSL options: (see the 21coin Wiki for SSL setup instructions)</source>
+        <translation>SSL valikud: (vaata 21coini Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ nt: alertnotify=echo %%s | email -s &quot;ABCCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of ABCCoin</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab ABCCoini uusimat versiooni</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of 21coin</source>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab 21coini uusimat versiooni</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart ABCCoin to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita ABCCoin</translation>
+        <source>Wallet needed to be rewritten: restart 21coin to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita 21coin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ nt: alertnotify=echo %%s | email -s &quot;ABCCoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. ABCCoin is probably already running.</source>
-        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. ABCCoin juba töötab.</translation>
+        <source>Unable to bind to %s on this computer. 21coin is probably already running.</source>
+        <translation>%s&apos;ga ei ole võimalik sellest arvutist siduda. 21coin juba töötab.</translation>
     </message>
     <message>
         <location line="+64"/>

@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About ABCCoin</source>
-        <translation>O ABCCoin</translation>
+        <source>About 21coin</source>
+        <translation>O 21coin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;ABCCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;ABCCoin&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;21coin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;21coin&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The ABCCoin developers</source>
+        <source>The 21coin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your ABCCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú Vaše ABCCoin adresy pre prijímanie platieb. Môžete dať každému odosielateľovi inú rôznu adresu a tak udržiavať prehľad o platbách.</translation>
+        <source>These are your 21coin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú Vaše 21coin adresy pre prijímanie platieb. Môžete dať každému odosielateľovi inú rôznu adresu a tak udržiavať prehľad o platbách.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,7 +77,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a ABCCoin address</source>
+        <source>Sign a message to prove you own a 21coin address</source>
         <translation>Podpísať správu a dokázať že vlastníte túto adresu</translation>
     </message>
     <message>
@@ -102,7 +102,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified ABCCoin address</source>
+        <source>Verify a message to ensure it was signed with a specified 21coin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -117,7 +117,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your ABCCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your 21coin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -243,8 +243,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ZETACOINS&lt;/b&gt;!</source>
-        <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE ZETACOINY&lt;/b&gt;!⏎</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR 21COINS&lt;/b&gt;!</source>
+        <translation>Varovanie: Ak zašifrujete peňaženku a stratíte heslo, &lt;b&gt;STRATÍTE VŠETKY VAŠE 21COINY&lt;/b&gt;!⏎</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>ABCCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your abccoins from being stolen by malware infecting your computer.</source>
-        <translation>ABCCoin sa teraz ukončí pre dokončenie procesu šifrovania. Pamätaj že šifrovanie peňaženky Ťa nemôže úplne ochrániť pred kráďežou abccoinov pomocou škodlivého software.</translation>
+        <source>21coin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your 21coins from being stolen by malware infecting your computer.</source>
+        <translation>21coin sa teraz ukončí pre dokončenie procesu šifrovania. Pamätaj že šifrovanie peňaženky Ťa nemôže úplne ochrániť pred kráďežou 21coinov pomocou škodlivého software.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about ABCCoin</source>
-        <translation>Zobraziť informácie o ABCCoin</translation>
+        <source>Show information about 21coin</source>
+        <translation>Zobraziť informácie o 21coin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a ABCCoin address</source>
-        <translation>Poslať abccoins na adresu</translation>
+        <source>Send coins to a 21coin address</source>
+        <translation>Poslať 21coins na adresu</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for ABCCoin</source>
-        <translation>Upraviť možnosti nastavenia pre abccoin</translation>
+        <source>Modify configuration options for 21coin</source>
+        <translation>Upraviť možnosti nastavenia pre 21coin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,7 +450,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>ABCCoin</source>
+        <source>21coin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About ABCCoin</source>
-        <translation>&amp;O ABCCoin</translation>
+        <source>&amp;About 21coin</source>
+        <translation>&amp;O 21coin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,12 +495,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your ABCCoin addresses to prove you own them</source>
+        <source>Sign messages with your 21coin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified ABCCoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified 21coin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>ABCCoin client</source>
-        <translation>ABCCoin klient</translation>
+        <source>21coin client</source>
+        <translation>21coin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to ABCCoin network</source>
-        <translation><numerusform>%n aktívne spojenie v ABCCoin sieti</numerusform><numerusform>%n aktívne spojenia v ABCCoin sieti</numerusform><numerusform>%n aktívnych spojení v Bitconi sieti</numerusform></translation>
+        <source>%n active connection(s) to 21coin network</source>
+        <translation><numerusform>%n aktívne spojenie v 21coin sieti</numerusform><numerusform>%n aktívne spojenia v 21coin sieti</numerusform><numerusform>%n aktívnych spojení v Bitconi sieti</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -650,7 +650,7 @@ Adresa: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid ABCCoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid 21coin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -665,7 +665,7 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. ABCCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. 21coin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -731,8 +731,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid ABCCoin address.</source>
-        <translation>Vložená adresa &quot;%1&quot; nieje platnou adresou abccoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid 21coin address.</source>
+        <translation>Vložená adresa &quot;%1&quot; nieje platnou adresou 21coin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -750,7 +750,7 @@ Adresa: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>ABCCoin-Qt</source>
+        <source>21coin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -813,13 +813,13 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start ABCCoin after logging in to the system.</source>
-        <translation>Automaticky spustiť ABCCoin po zapnutí počítača</translation>
+        <source>Automatically start 21coin after logging in to the system.</source>
+        <translation>Automaticky spustiť 21coin po zapnutí počítača</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start ABCCoin on system login</source>
-        <translation>&amp;Spustiť ABCCoin pri spustení systému správy okien</translation>
+        <source>&amp;Start 21coin on system login</source>
+        <translation>&amp;Spustiť 21coin pri spustení systému správy okien</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -838,8 +838,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the ABCCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvorit port pre ABCCoin na routeri. Toto funguje len ak router podporuje UPnP a je táto podpora aktivovaná.</translation>
+        <source>Automatically open the 21coin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvorit port pre 21coin na routeri. Toto funguje len ak router podporuje UPnP a je táto podpora aktivovaná.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -848,8 +848,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the ABCCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojiť do siete ABCCoin cez SOCKS proxy (napr. keď sa pripájate cez Tor)</translation>
+        <source>Connect to the 21coin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojiť do siete 21coin cez SOCKS proxy (napr. keď sa pripájate cez Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -923,7 +923,7 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting ABCCoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting 21coin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -938,7 +938,7 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show ABCCoin addresses in the transaction list or not.</source>
+        <source>Whether to show 21coin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -990,7 +990,7 @@ Adresa: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting ABCCoin.</source>
+        <source>This setting will take effect after restarting 21coin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1009,7 +1009,7 @@ Adresa: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ABCCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 21coin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1063,7 +1063,7 @@ Adresa: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start abccoin: click-to-pay handler</source>
+        <source>Cannot start 21coin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1213,7 +1213,7 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the ABCCoin-Qt help message to get a list with possible ABCCoin command-line options.</source>
+        <source>Show the 21coin-Qt help message to get a list with possible 21coin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1233,12 +1233,12 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>ABCCoin - Debug window</source>
+        <source>21coin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>ABCCoin Core</source>
+        <source>21coin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1248,7 +1248,7 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the ABCCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the 21coin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1258,7 +1258,7 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the ABCCoin RPC console.</source>
+        <source>Welcome to the 21coin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1284,7 +1284,7 @@ Adresa: %4</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Poslať ABCCoins</translation>
+        <translation>Poslať 21coins</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1334,7 +1334,7 @@ Adresa: %4</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Potvrdiť odoslanie abccoins</translation>
+        <translation>Potvrdiť odoslanie 21coins</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1442,8 +1442,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a ABCCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Zadajte ABCCoin adresu (napr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a 21coin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Zadajte 21coin adresu (napr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1466,7 +1466,7 @@ Adresa: %4</translation>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Zadajte ABCCoin adresu (napr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Zadajte 21coin adresu (napr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1507,7 +1507,7 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this ABCCoin address</source>
+        <source>Sign the message to prove you own this 21coin address</source>
         <translation>Podpíšte správu aby ste dokázali že vlastníte túto adresu</translation>
     </message>
     <message>
@@ -1539,11 +1539,11 @@ Adresa: %4</translation>
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Zadajte ABCCoin adresu (napr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Zadajte 21coin adresu (napr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified ABCCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified 21coin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1559,8 +1559,8 @@ Adresa: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a ABCCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Zadajte ABCCoin adresu (napr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a 21coin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Zadajte 21coin adresu (napr. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1569,7 +1569,7 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter ABCCoin signature</source>
+        <source>Enter 21coin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1643,7 +1643,7 @@ Adresa: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+25"/>
-        <source>The ABCCoin developers</source>
+        <source>The 21coin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2131,7 +2131,7 @@ Adresa: %4</translation>
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Poslať ABCCoins</translation>
+        <translation>Poslať 21coins</translation>
     </message>
 </context>
 <context>
@@ -2181,8 +2181,8 @@ Adresa: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>ABCCoin version</source>
-        <translation>ABCCoin verzia</translation>
+        <source>21coin version</source>
+        <translation>21coin verzia</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2191,8 +2191,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or abccoind</source>
-        <translation>Odoslať príkaz -server alebo abccoind</translation>
+        <source>Send command to -server or 21coind</source>
+        <translation>Odoslať príkaz -server alebo 21coind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2211,13 +2211,13 @@ Adresa: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: abccoin.conf)</source>
-        <translation>Určiť súbor s nastaveniami (predvolené: abccoin.conf)</translation>
+        <source>Specify configuration file (default: 21coin.conf)</source>
+        <translation>Určiť súbor s nastaveniami (predvolené: 21coin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: abccoind.pid)</source>
-        <translation>Určiť súbor pid (predvolené: abccoind.pid)</translation>
+        <source>Specify pid file (default: 21coind.pid)</source>
+        <translation>Určiť súbor pid (predvolené: 21coind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2294,13 +2294,13 @@ Adresa: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=abccoinrpc
+rpcuser=21coinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;21coin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2316,7 +2316,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. ABCCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. 21coin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2361,7 +2361,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ABCCoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 21coin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2611,8 +2611,8 @@ for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the ABCCoin Wiki for SSL setup instructions)</source>
-        <translation>SSL možnosť: (pozrite ABCCoin Wiki pre návod na nastavenie SSL)</translation>
+        <source>SSL options: (see the 21coin Wiki for SSL setup instructions)</source>
+        <translation>SSL možnosť: (pozrite 21coin Wiki pre návod na nastavenie SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2801,13 +2801,13 @@ for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of ABCCoin</source>
-        <translation>Chyba načítania wallet.dat: Peňaženka vyžaduje novšiu verziu ABCCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of 21coin</source>
+        <translation>Chyba načítania wallet.dat: Peňaženka vyžaduje novšiu verziu 21coin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart ABCCoin to complete</source>
-        <translation>Bolo potrebné prepísať peňaženku: dokončite reštartovaním ABCCoin</translation>
+        <source>Wallet needed to be rewritten: restart 21coin to complete</source>
+        <translation>Bolo potrebné prepísať peňaženku: dokončite reštartovaním 21coin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2866,7 +2866,7 @@ for example: alertnotify=echo %%s | mail -s &quot;ABCCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. ABCCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. 21coin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
